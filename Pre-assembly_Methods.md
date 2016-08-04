@@ -2,7 +2,9 @@
 
 #### Error corrected PE reads using Lighter (v1.1)
 
-```./lighter -r R1_RRPN7-1_combined.fastq.gz -r R2_RRPN7-1_combined.fastq.gz -od /Pigweed_Assembly/RRP_Lighter -t 32 -k 21 500000000 .06```
+```
+./lighter -r R1_RRPN7-1_combined.fastq.gz -r R2_RRPN7-1_combined.fastq.gz -od /Pigweed_Assembly/RRP_Lighter -t 32 -k 21 500000000 .06
+```
 
 #### Trim adapters and quality trim PE reads using Trimmomatic (v0.36)
 
