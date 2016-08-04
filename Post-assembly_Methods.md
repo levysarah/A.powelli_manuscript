@@ -31,7 +31,7 @@ quast.py -o /QUAST_RRP_New {list_all_assembly_files}
 #### BUSCO - PLANT EARLY RELEASE (v1.1b1)
 
 ###### Obtain plant_early_release.tar.gz files via website request http://busco.ezlab.org/
-###### Update dictonary on line 90 with plantae
+###### Update dictonary on line 90 with plantae values
 ```
 valid_clade_info = {'arthropoda':102785,'metazoa':91897,'vertebrata':143785,'fungi':174195,'example':102785,'bacteria':107114,'eukaryota':41317,'plantae':34011}
 ```
