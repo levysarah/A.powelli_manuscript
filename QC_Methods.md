@@ -8,10 +8,6 @@
 
 ###### Preprocess reads
 ```
-sga preprocess --pe-mode 1 input_1.fastq input_2.fastq > my_genome.fastq
-```
-###### Preprocess reads
-```
 sga preprocess --pe-mode 1 'Raw_RRP_R1.fastq.gz' 'Raw_RRP_R2.fastq.gz' > RRP_genome.fastq
 ```
 ###### Index reads
