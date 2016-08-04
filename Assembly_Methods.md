@@ -17,7 +17,7 @@ done
 ```
 #### SPAdes (v0.10.13)
 ```
-spades.py -k 55, 75, 115, 123, 125, 127 -t 5 --careful --only-assembler --pe1-1 output_forward_paired_R1_RRP.fastq.gz --pe1-2 output_reverse_paired_R2_RRP.fastq.gz -o spades_RRP
+spades.py -k 55,75,115,123,125,127 -t 5 --careful --only-assembler --pe1-1 output_forward_paired_R1_RRP.fastq.gz --pe1-2 output_reverse_paired_R2_RRP.fastq.gz -o spades_RRP
 ```
 
 #### SOAPdenovo2 (127mer version)
